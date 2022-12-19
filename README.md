@@ -1,3 +1,7 @@
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/SaraYahia9/egfwd-udagram/tree/master.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/SaraYahia9/egfwd-udagram/tree/master)
+
+http://sara-bucket-2.s3-website-us-east-1.amazonaws.com
+
 # Hosting a Full-Stack Application
 
 ### **You can use you own project completed in previous courses or use the provided Udagram app for completing this final project.**
